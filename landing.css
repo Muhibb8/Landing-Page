@@ -136,6 +136,7 @@ button{
 {
     .headertwo{
         flex-direction: column;
+        margin-left: -50px;
     }
     .headertext2{
         margin-left: -10px;
